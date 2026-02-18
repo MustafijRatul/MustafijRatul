@@ -55,12 +55,32 @@ I am a passionate developer from **Bangladesh** focused on creating software tha
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MustafijRatul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="Ratul's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafijRatul&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=MustafijRatul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    height="160" 
+    alt="Ratul's GitHub Stats" 
+  />
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafijRatul&layout=compact&theme=tokyonight&hide_border=true" 
+    height="160" 
+    alt="Ratul's Top Languages" 
+  />
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MustafijRatul&label=Profile%20Views&color=5D5FEF&style=flat-square" alt="Profile Views" />
+
+  <!-- Profile Views -->
+  <img 
+    src="https://komarev.com/ghpvc/?username=MustafijRatul&label=Profile%20Views&color=5D5FEF&style=flat-square" 
+    alt="Profile Views" 
+  />
+
 </div>
+
